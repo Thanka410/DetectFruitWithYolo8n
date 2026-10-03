@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "esp32_sorter",
+			"path": "../../../OneDrive/Documents/PlatformIO/Projects/esp32_sorter"
+		}
+	],
+	"settings": {}
+}

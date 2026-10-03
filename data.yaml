@@ -1,0 +1,5 @@
+train: train/images  # Đường dẫn đến ảnh huấn luyện local
+val: test/images   # Đường dẫn đến ảnh kiểm tra local
+
+nc: 3  # Số lượng lớp (apple, banana, orange)
+names: ['apple', 'banana', 'orange']
